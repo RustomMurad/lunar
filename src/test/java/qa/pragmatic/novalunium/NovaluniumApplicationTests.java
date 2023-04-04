@@ -9,5 +9,6 @@ class NovaluniumApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 }
